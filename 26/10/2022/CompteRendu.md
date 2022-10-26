@@ -9,6 +9,7 @@
 - [TP Demontage & remontage de PC fixe](#tp-demontage--remontage-de-pc-fixe)
   - [Demontage](#demontage)
   - [Remontage](#remontage)
+- [Correction QCM](#correction-qcm)
 - [Remarque](#remarque)
 
 # Composition   
@@ -144,6 +145,36 @@
 - Disque
 - Alim 
 - Tous re-câbler (en terminant par l'alim)
+
+# Correction QCM
+
+RAM plus rapide que HDD, NVM, SSD:
+  Ram > NVME > SSD > HDD
+  Mais NVME stockage plus rapide
+
+Ordre de montage:
+  MB -> CPU -> VentiRad -> RAM -> CASE -> GPU -> ALIM
+
+Branchachement:
+
+- RAM : SLOTs
+- SSD :SATA
+- GPU : PCIe
+- Extension Card : PCIe
+- Carte Son : PCIe
+- HDD : SATA
+- Carte Son : PCIe
+- Alim : 230V
+- CPU : Socket
+
+Requis pour écouter de la musique
+- HDMI
+- JACK 3.5
+- Jack 2.5 vert
+
+SSD = Solide State Drive
+
+HHD = Hard Drive Disk
 
 # Remarque
 
