@@ -6,6 +6,9 @@
   - [Essentiels](#essentiels)
   - [Secondaire](#secondaire)
   - [Facultatifs](#facultatifs)
+- [TP Demontage & remontage de PC fixe](#tp-demontage--remontage-de-pc-fixe)
+  - [Demontage](#demontage)
+  - [Remontage](#remontage)
 - [Remarque](#remarque)
 
 # Composition   
@@ -111,5 +114,35 @@
 
 - Lecteur/Graveur DVD/CD
 - Webcam interne
+
+
+# TP Demontage & remontage de PC fixe
+
+## Demontage
+
+- Tout décâbler
+- Se libérer le chemin pour sortir la carte mère
+  - Ventilo externe
+  - lecteur/graveur ...
+  - Disque (s'ils gênent)
+- Sortir la Carte graphique
+- Sortir la carte mère
+- Démanteler la carte mère
+  - RAM
+  - VentiRad
+  - Process
+    - <b>ATTENTION : Ne pas laisser de saleté dessus</b>
+
+## Remontage
+
+- Monter sur la carte mère
+  - Process
+  - Venti-Rad
+  - RAM
+- Remettre la carte mère
+- Lecteur/graveur
+- Disque
+- Alim 
+- Tous re-câbler (en terminant par l'alim)
 
 # Remarque
