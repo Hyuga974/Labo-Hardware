@@ -6,6 +6,7 @@
 - [Sommaire](#sommaire)
   - [Conseil](#conseil)
   - [PRé-requis](#pré-requis)
+  - [Lien séance 1](#lien-séance-1)
 
 ## Conseil
 
@@ -25,3 +26,7 @@ Procéder au brachement dans l'ordre
 ## PRé-requis
 
 Eteindre le PC, le débrancher et se muunir sans petit crusiforme
+
+## Lien séance 1
+
+[26/10/2022](26/10/2022/CompteRendu.md)
