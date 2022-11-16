@@ -91,6 +91,7 @@ En général, il faut un bon processeur (min i7 12 gen/Ryzen7 5 gen)
 
 <u>Référence :</u>
   - Thinkpad X13 Gen 3 ryzen 7 & 6850U 16go
+  - 
 
 # VI. 2D & illustration Digitale
 

@@ -5,13 +5,8 @@ Connectique de carte mère
 # Sommaire
 - [LABO HARDWARE: Jour 2](#labo-hardware-jour-2)
 - [Sommaire](#sommaire)
-- [I.](#i)
 - [I. Compte Rendu](#i-compte-rendu)
   - [Ce qui a été fait](#ce-qui-a-été-fait)
-
-# I. 
-
-
 
 # I. Compte Rendu
 
