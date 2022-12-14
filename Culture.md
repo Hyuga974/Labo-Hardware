@@ -6,10 +6,12 @@
 - [I. Brainfuck](#i-brainfuck)
 - [II. Other say](#ii-other-say)
   - [1. La place des femmes dans l'inforamtique](#1-la-place-des-femmes-dans-linforamtique)
-  - [2. Internet](#2-internet)
+  - [2. Internet ](#2-internet-)
   - [3. Minitel](#3-minitel)
   - [4. Socket](#4-socket)
     - [B les générations](#b-les-générations)
+  - [5. Ventilo boîtier](#5-ventilo-boîtier)
+    - [Airflow](#airflow)
 
 
 # I. Brainfuck
@@ -22,20 +24,25 @@ L'objectif était d'avoir un language simple, avec une taille de compilateur la 
 |----------|---------------|
 | > | incrémente (augmente de 1) le pointeur |
 | < | décrémente (diminue de 1) le pointeur. |
-| 
+| +​ | incrémente l'octet du tableau sur lequel est positionné le pointeur (l'octet pointé).|
+| -​ | décrémente l'octet pointé.| 
+| . | sortie de l'octet pointé (valeur ASCII).
+| , | entrée d'un octet dans le tableau à l'endroit où est positionné le pointeur (valeur ASCII).
+| [ | saute à l'instruction après le ] correspondant si l'octet pointé est à 0.
+| ] | retourne à l'instruction après le [ si l'octet pointé est différent de 0.
 
 # II. Other say
 
-## 1. La place des femmes dans l'inforamtique
+## <u>1. La place des femmes dans l'inforamtique</u>
 
 Présnte au début mais vite éloigné du domaine. 
 
-## 2. Internet 
+## <u>2. Internet </u>
 
 APRPANet réservé plus à l'armée
 
 
-## 3. Minitel
+## <u>3. Minitel</u>
 
 1970 20Million 
 
@@ -95,3 +102,24 @@ Tyope carte mère
 Génération carte mère
   - 4-10° -> Hx10 - Bx60
   - 5-12° -> Hx70 - Zx90
+
+## 5. Ventilo boîtier
+
+### Airflow
+
+Plusieurs types de pressions:
+  - Pression négative
+  - Pression Positive
+  - Pression neutre : entre à l'avant et sort en arrière
+
+2 types d'hélices:
+  - Fine
+  - Large 
+
+2 types de roulement:
+- Bille (plus cher et centre l'hélice)
+- Bague huilé (petit mouvement parasyte)
+  
+Les connectiques:
+- 4 : Ground (-), 12V DC (+), RPM Signal (from Fan), PWM Signal (from MB)
+- 3 : Ground (-), 12V DC (+), RPM Signal (from Fan)
